@@ -1,0 +1,9 @@
+.réseau{
+	font-size: 40px;
+	padding-left: 300px;
+	list-style: none;
+	text-align: center;
+}
+.réseau i:hover {
+	color: darkgrey;
+}
